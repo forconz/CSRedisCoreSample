@@ -1,4 +1,8 @@
 # CSRedisCoreSample
+
+# Windows下安装Redis服务
+https://www.cnblogs.com/jaign/articles/7920588.html
+
 # 安装 NuGet 程序包 CSRedisCore
 
 安装 AnotherRedisDesktopManager，查看redis服务器的数据
