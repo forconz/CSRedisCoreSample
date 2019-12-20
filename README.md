@@ -1,7 +1,12 @@
 # CSRedisCoreSample
 
 # Windows下安装Redis服务
-https://www.cnblogs.com/jaign/articles/7920588.html
+安装Redis，首先要获取安装包，浏览器打开链接https://github.com/microsoftarchive/redis/releases
+如果看不到下载链接，点击一下 Assets ，下载最新版的msi文件即可，这个msi文件是Windows的Redis安装包。
+我下载的是https://github.com/microsoftarchive/redis/releases/download/win-3.2.100/Redis-x64-3.2.100.msi
+
+双击刚下载好的msi格式的安装包（Redis-x64-3.2.100.msi）开始安装。
+不熟悉的朋友，可以打开链接，一步步操作：https://www.cnblogs.com/jaign/articles/7920588.html
 
 # 安装 NuGet 程序包 CSRedisCore
 
